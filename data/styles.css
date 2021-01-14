@@ -91,6 +91,9 @@
 .sticky_3 {
   text-align:left;
 }
+.marker {
+  color:#FFFFFF;
+}
 .form_disabled {
 }
 .line {
@@ -181,5 +184,14 @@
 .text_link_mouse_over {
 }
 .text_link_mouse_down {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+._线段 {
 }
 textarea, select, input, button { outline: none; }
